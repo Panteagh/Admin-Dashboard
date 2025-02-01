@@ -4,7 +4,6 @@ import './App.css'
 import Layout from './components/Layout/Layout'
 import Dashboard from './pages/Dashboard/Dashboard'
 import { createTheme } from '@mui/material';
-import { deepPurple } from '@mui/material/colors';
 import { ThemeProvider } from '@emotion/react';
 
 function App() {

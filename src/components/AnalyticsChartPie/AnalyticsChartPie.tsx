@@ -1,5 +1,4 @@
 import { PieChart } from "@mui/x-charts/PieChart";
-import { Box, Typography } from "@mui/material";
 import SectionHeader from "../SectionHeader/SectionHeader";
 
 const data1 = [
