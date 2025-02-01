@@ -1,3 +1,24 @@
+
+# Admin Dashboard
+
+A React project made from a Figma design.  The technologies used in this project are TypeScript and material UI, and the purpose of building this project is actually the use of  MUI. It should be noted that this project is not responsive.
+
+![Image](https://github.com/user-attachments/assets/9360c3a0-4a80-4622-8be8-cc0a4a013bfc)
+![Image](https://github.com/user-attachments/assets/7f49b722-0d5e-460f-8a0d-30c092f493a3)
+
+## Demo
+
+[Demo Project](https://admin-dashboard-delta-three-69.vercel.app/)
+
+
+## Used
+
+- TypeScreapt
+- Material UI
+- React
+- MUI Chart / MUI Icone
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
